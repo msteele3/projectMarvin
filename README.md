@@ -63,7 +63,7 @@ Below are some images showing various stages of the project development:
 
 I am planning to remake this project using a Rasberry Pi and make it a lot more streamlined/faster, along with more deeply integrating Govee Lights. Please reach out to me if you are interested in collaborating on this 
 
-Twitter: @msteele020
+Twitter: [@msteele020](https://twitter.com/msteele020)
 
 
 ## License
